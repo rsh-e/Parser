@@ -5,7 +5,7 @@ A programming interface and parser which an execute AQA style Assembly code
 # How it works
 
 When you run the program, you can either load a file or write a program in the interface which will be executed.
-If you load the file, the file must be in the same folder as the main.py otherwise it won't run. If you are writing the program in the interface, then you will have to type 'HALT' in order to stop the interface. Execution will begin after that.
+If you load the file, the file must be in the same folder as the main.py otherwise it won't run. The loaded file must be in a '.txt' format. If you are writing the program in the interface, then you will have to type 'HALT' in order to stop the interface. Execution will begin after that.
 You are alotted 15 memory locations where you can perform a variety of operations as mentioned in the documentation below. The memory locations exist from R0 to R14.
 
 # Documentation
