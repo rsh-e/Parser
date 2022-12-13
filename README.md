@@ -1,6 +1,6 @@
 # Parser
 
-A programming interface and parser which an execute AQA style Assembly code
+A programming interface and parser which can execute AQA style Assembly code
 
 # How it works
 
